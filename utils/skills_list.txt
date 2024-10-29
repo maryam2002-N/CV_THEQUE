@@ -1,0 +1,774 @@
+# Technique
+python
+Flutter
+Dart
+kotlin
+java
+c++
+javascript
+html
+JavaEE
+css
+sql
+react
+reactJS
+angular
+vue.js
+node.js
+express.js
+django
+flask
+ruby on rails
+php
+R
+LaTeX
+laravel
+asp.net
+c#
+swift
+rust
+go
+scala
+typescript
+r
+C
+matlab
+sas
+spss
+tableau
+power bi
+excel
+analyse de données
+apprentissage automatique
+intelligence artificielle
+apprentissage profond
+traitement du langage naturel
+vision par ordinateur
+informatique en nuage
+Modélisation prédictive
+Modélisation
+Bizagi
+aws
+azure
+google cloud
+docker
+kubernetes
+jenkins
+git
+agile
+Trello
+Notion
+Gantt Project
+TeamGantt
+Kanban
+scrum
+devops
+cybersécurité
+sécurité des réseaux
+tests de pénétration
+piratage éthique
+blockchain
+iot (internet des objets)
+big data
+hadoop
+spark
+mongodb
+postgresql
+mysql
+oracle
+SQL Server
+Oracle 19c
+# Affaires et Finance
+sap
+salesforce
+analyse financière
+évaluation des risques
+audit interne
+audit externe
+audit
+audit Environnemental
+Traitement des déchets
+Assainissement
+Techniques d'analyse
+Analyse de dangers
+évaluation des risques
+Gestion des produits chimiques
+conformité
+sarbanes-oxley (sox)
+gaap
+ifrs
+Modélisation UML
+comptabilité judiciaire
+Comptabilité générale
+planification fiscale
+budgétisation
+Finances
+prévisions
+analyse des coûts
+modélisation financière
+cryptomonnaies
+trading forex
+gestion des investissements
+gestion de portefeuille
+Gestion de qualité
+finance immobilière
+science actuarielle
+modélisation économique
+produits dérivés financiers
+capital-risque
+capital-investissement
+# Marketing et Communication
+marketing digital
+marketing des médias sociaux
+marketing de contenu
+seo (référencement naturel)
+sem (marketing des moteurs de recherche)
+google analytics
+publicités facebook
+marketing instagram
+marketing tiktok
+marketing par e-mail
+marketing d'affiliation
+gestion de marque
+étude de marché
+segmentation de la clientèle
+crm (gestion de la relation client)
+relations publiques
+rédaction publicitaire
+conception graphique
+adobe creative suite
+conception ui/ux
+production vidéo
+production de podcasts
+marketing d'influence
+marketing de guérilla
+automatisation du marketing
+cartographie du parcours client
+storytelling de marque
+neuromarketing
+# Gestion et Leadership
+gestion de produit
+gestion de projet
+méthodologies agiles
+résolution de problèmes
+six sigma
+gestion lean
+Explorer les technologies
+gestion de la chaîne d'approvisionnement
+logistique
+gestion des stocks
+contrôle qualité
+business intelligence
+visualisation de données
+analyse prédictive
+analyse statistique
+test a/b
+service client
+ventes
+négociation
+leadership
+gestion d'équipe
+résolution de conflits
+résolution de problèmes
+pensée critique
+prise de décision
+gestion du temps
+communication
+présentation
+prise de parole en public
+intelligence émotionnelle
+adaptabilité
+créativité
+innovation
+planification stratégique
+développement commercial
+entrepreneuriat
+startups
+fusions et acquisitions
+gestion du changement
+gestion des risques
+gestion de crise
+gestion des opérations
+# Ressources Humaines et Milieu de Travail
+ressources humaines
+acquisition de talents
+gestion de la performance
+formation et développement
+rémunération et avantages sociaux
+sécurité au travail
+conformité osha
+premiers soins
+réanimation cardio-pulmonaire
+conduite de chariot élévateur
+conduite de grue
+permis de conduire commercial (cdl)
+conduite défensive
+entretien des véhicules
+navigation gps
+optimisation des itinéraires
+manutention de fret
+manipulation de matières dangereuses
+gestion d'entrepôt
+contrôle des stocks
+engagement des employés
+gestion de la diversité et de l'inclusion
+relations de travail
+programmes de bien-être au travail
+planification de la succession
+développement organisationnel
+analyse rh
+intégration des employés
+gestion du travail à distance
+résolution des conflits en milieu de travail
+# Logiciels et Outils
+microsoft office (word, excel, powerpoint, outlook)
+google workspace (docs, sheets, slides, gmail)
+logiciels crm
+systèmes erp
+outils de collaboration virtuelle (zoom, teams, slack)
+stockage en nuage (dropbox, google drive, onedrive)
+adobe creative suite (photoshop, illustrator, indesign)
+autodesk (autocad, revit, fusion 360)
+AutoCad
+revit
+fusion 360
+ArcGis
+Minestis
+Ventsim
+logiciels de modélisation 3d (blender, maya, 3ds max)
+logiciels de montage vidéo (premiere pro, final cut pro, davinci resolve)
+logiciels d'édition audio (audacity, pro tools, logic pro)
+outils de gestion de projet (jira, trello, asana)
+logiciels de comptabilité (quickbooks, xero, sage)
+logiciels statistiques (stata, minitab)
+systèmes d'information géographique (sig)
+fabrication assistée par ordinateur (fao)
+Statistiques et probabilités
+# Compétences générales et Développement personnel
+codage de base
+saisie de données
+Jupyter Notebook
+Knime
+Orange (Software)
+Jsreport
+Gestion des bases de données
+dactylographie
+multilinguisme
+communication interculturelle
+négociation
+résolution de conflits
+écoute active
+empathie
+gestion du stress
+équilibre travail-vie personnelle
+pleine conscience
+condition physique
+sensibilisation à la santé mentale
+pratiques de durabilité
+sensibilisation environnementale
+responsabilité sociale des entreprises
+diversité et inclusion
+prise de décision éthique
+pensée critique
+résolution de problèmes
+analytique
+méthodes de recherche
+rédaction de rapports
+rédaction technique
+relecture
+édition
+prise de parole en public
+réseautage
+image de marque personnelle
+gestion des médias sociaux
+littératie numérique
+culture de l'information
+éducation aux médias
+littératie financière
+gestion du temps
+définition d'objectifs
+développement personnel
+apprentissage continu
+adaptabilité
+résilience
+travail d'équipe
+leadership
+mentorat
+coaching
+# Spécifique à l'industrie
+informatique de santé
+codage médical
+recherche pharmaceutique
+gestion des essais cliniques
+biostatistique
+épidémiologie
+télémédecine
+dossiers de santé électroniques (dse)
+technologie des dispositifs médicaux
+informatique infirmière
+recherche juridique
+droit des contrats
+droit de la propriété intellectuelle
+assistant juridique
+procédures judiciaires
+rédaction juridique
+évaluation de l'impact environnemental
+technologies d'énergie renouvelable
+conception durable
+gestion des déchets
+cartographie sig
+gestion de la construction
+conception architecturale
+ingénierie structurelle
+ingénierie mécanique
+ingénierie électrique
+génie chimique
+ingénierie aérospatiale
+robotique
+nanotechnologie
+informatique quantique
+bioinformatique
+génomique
+protéomique
+science alimentaire
+nutrition
+arts culinaires
+gestion hôtelière
+planification d'événements
+gestion du tourisme
+gestion de commerce de détail
+e-commerce
+optimisation de la chaîne d'approvisionnement
+gestion logistique
+commerce international
+réglementations douanières
+procédures d'import/export
+science agronomique
+agriculture de précision
+gestion du bétail
+aquaculture
+gestion forestière
+conservation de la faune
+biologie marine
+océanographie
+météorologie
+modélisation climatique
+astronomie
+astrophysique
+physique des particules
+ingénierie nucléaire
+ingénierie pétrolière
+ingénierie géotechnique
+hydrologie
+gestion des ressources en eau
+# Technologies émergentes
+technologie réseau 5g
+edge computing
+réalité augmentée (ra)
+réalité virtuelle (rv)
+réalité mixte (rm)
+apprentissage automatique quantique
+informatique neuromorphique
+interfaces cerveau-ordinateur
+génie génétique
+technologie crispr
+biologie synthétique
+bio-impression 3d
+matériaux intelligents
+matériaux auto-réparateurs
+nanocapteurs
+robotique en essaim
+véhicules autonomes
+technologie des drones
+technologie spatiale
+automatique
+communications par satellite
+# Créatif et Artistique
+écriture créative
+scénarisation
+storyboard
+animation
+conception de personnages
+art conceptuel
+design de mode
+Adobe XD
+design d'intérieur
+design industriel
+conception de jeux
+conception de niveaux
+composition musicale
+design sonore
+chorégraphie
+danse
+jeu d'acteur
+réalisation
+production cinématographique
+photographie
+photojournalisme
+conservation d'art
+restauration d'art
+poterie
+sculpture
+fabrication de bijoux
+design textile
+# Langue et Culture
+langue des signes
+traduction
+interprétation
+localisation
+conseil culturel
+protocole diplomatique
+étiquette internationale
+formation interculturelle
+enseignement des langues
+analyse linguistique
+# Éducation et Formation
+développement de programmes
+conception pédagogique
+développement e-learning
+technologie éducative
+conception d'évaluations
+CONCEPTION MECANIQUE
+gestion de classe
+éducation spécialisée
+formation pour adultes
+formation professionnelle
+formation en entreprise
+gamification dans l'éducation
+psychologie de l'éducation
+conseil aux étudiants
+# Environnement et Durabilité
+analyse de l'empreinte carbone
+analyse du cycle de vie
+Analyse de cycle de vie
+principes d'économie circulaire
+gestion durable de la chaîne d'approvisionnement
+conception de bâtiments écologiques
+audit énergétique
+systèmes d'énergie renouvelable
+techniques de conservation de l'eau
+évaluation de la biodiversité
+restauration des écosystèmes
+analyse des politiques environnementales
+rapports de durabilité
+stratégie de durabilité d'entreprise
+éducation environnementale
+biologie de la conservation
+Stratégies d'entreprise
+BPM
+SCM
+Assistance à la maîtrise d’ouvrage
+Compétences en ERP
+Analyse multicritère
+Français
+Anglais
+Arabe
+Arabe : Langue Maternelle
+Français : Bonne maîtrise
+Anglais : Maîtrise
+Word
+Excel
+Power point
+CatiaV5
+Photoshop
+ARDUINO-
+ISIS Proteuse
+python-Langage
+C
+VBA
+VB.net
+Langage C++-
+SQL
+# Santé et Bien-être
+conseil en nutrition
+entraînement physique
+instruction de yoga
+enseignement de la méditation
+massothérapie
+physiothérapie
+ergothérapie
+orthophonie
+conseil en santé mentale
+conseil en toxicomanie
+coaching santé
+science du sommeil
+conseil en ergonomie
+gestion de programme de bien-être en milieu de travail
+techniques de gestion du stress
+# Technique spécialisé
+développement blockchain
+programmation de contrats intelligents
+conception d'algorithmes quantiques
+cryptographie
+exploration de données
+génération de langage naturel
+développement d'algorithmes de vision par ordinateur
+automatisation robotique des processus (rpa)
+programmation de systèmes embarqués
+programmation fpga
+programmation bas niveau
+programmation
+conception de compilateurs
+développement de systèmes d'exploitation
+conception de protocoles réseau
+chasse aux menaces de cybersécurité
+analyse de logiciels malveillants
+veille Réglementaire
+ingénierie inverse
+développement de moteurs de jeu
+programmation de moteurs physiques
+génération procédurale
+# Conduite et Transport
+permis de conduire commercial (cdl)
+cdl classe a
+cdl classe b
+cdl classe c
+autorisation matières dangereuses
+autorisation passagers
+autorisation autobus scolaire
+autorisation citerne
+autorisation doubles/triples
+autorisation freins à air
+conduite défensive
+conduite d'évitement
+conduite hivernale
+conduite tout-terrain
+conduite de véhicules d'urgence
+conduite de camions
+conduite d'autobus
+conduite de taxi
+services de chauffeur
+conduite de covoiturage
+services de messagerie
+conduite de chariot élévateur
+conduite de grue
+opération d'équipement lourd
+entretien des véhicules
+mécanique automobile de base
+navigation gps
+optimisation des itinéraires
+lois et règlements de la circulation
+conformité aux réglementations dot
+enregistrement des heures de service
+utilisation d'appareils d'enregistrement électronique (eld)
+manutention de fret
+arrimage de cargaison
+planification de chargement
+répartition du poids
+transport réfrigéré
+transport de citernes
+transport de plateau
+transport de charges surdimensionnées
+transport de matières dangereuses
+permis de conduire international
+permis moto
+licence de pilote (diverses classes)
+licence de capitaine de bateau
+conduite de train
+ingénierie de locomotive
+contrôle du trafic aérien
+régulation des vols
+logistique des transports
+gestion de flotte
+inspection des véhicules
+inspection avant départ
+inspection après trajet
+techniques d'efficacité énergétique
+éco-conduite
+automatisme
+conduite de véhicules électriques
+conduite de véhicules hybrides
+supervision de véhicules autonomes
+télématique des véhicules
+protocoles de sécurité des transports
+premiers soins et réanimation pour conducteurs
+assistance routière
+remorquage
+démarrage de véhicules
+changement de pneus
+dépannage de base des véhicules
+lecture de cartes
+analyse des schémas de circulation
+techniques de stationnement (parallèle, marche arrière, etc.)
+attelage et remorquage de remorques
+nettoyage et détaillage de véhicules
+service client pour conducteurs
+résolution de conflits pour conducteurs
+gestion du temps pour les longs trajets
+gestion de la fatigue
+gestion du stress pour les conducteurs
+réglementations de conduite transfrontalière
+procédures douanières et d'immigration pour conducteurs
+systèmes de péage routier et de perception électronique
+intervention d'urgence pour accidents
+intervention en cas de déversement de matières dangereuses
+installation de chaînes à neige
+techniques de récupération de véhicules
+instruction de conduite défensive
+formation et éducation des conducteurs
+opération de véhicules spécialisés (par exemple, camion-benne, camion-poubelle, camion de pompiers)
+conduite d'ambulance
+conduite de véhicules de police
+conduite de voiture de course
+conduite cascadeuse
+sécurité à moto
+sécurité à vélo et règles
+sensibilisation à la sécurité des piétons
+sécurité routière en zone scolaire
+sécurité routière en zone de travaux
+sécurité aux passages à niveau
+sensibilisation aux traversées d'animaux
+techniques de conduite de nuit
+techniques de conduite dans le brouillard
+techniques de conduite par vent fort
+techniques de conduite en montagne
+techniques de conduite en ville
+techniques de conduite sur autoroute
+techniques de conduite sur routes rurales
+types de carburant et procédures de ravitaillement
+conduite de véhicules à carburant alternatif
+conformité aux normes d'émissions des véhicules
+systèmes de détection de la fatigue du conducteur
+utilisation des technologies de sécurité des véhicules (par exemple, avertissement de sortie de voie, régulateur de vitesse adaptatif)
+utilisation et gestion de caméras embarquées
+systèmes de réservation et de répartition de véhicules
+systèmes de gestion de la main-d'œuvre mobile
+systèmes de tableau de bord du conducteur
+systèmes de diagnostic des véhicules et ordinateurs de bord
+plateformes numériques d'appariement de fret
+optimisation de la livraison du dernier kilomètre
+gestion de la logistique inverse
+Navigation Sur Internet
+Outils Office: Word; Excel; Power Point
+ESPRIT D’EQUIPE
+SERIEUX
+AUTODISCIPLINE
+Maintenance
+Gestion de Maintenance
+Système de management qualité
+Management de production
+Electromécanique
+Machines électriques
+Electronique
+Electrotechnique
+Résistance des matériaux,
+Techniques d’usinage
+Procédés de fabrication mécanique
+GMAO
+AMDEC
+DMAIC
+SMED
+Contrôle Non Destructif
+Gestion de Stocks
+Mainte
+Contrôle Non Destructif
+GMAO
+AMDEC
+DMAIC
+SMED
+Automates programmables industriels
+Circuits hydrauliques et pneumatiques
+Ingénierie des pompes et des compresseurs
+Analyse financière
+Management
+Marketing
+Pack Microsoft Office
+Anglais: TOEIC: 940
+Français: Compétences professionnelles
+Microsoft Office
+Zone ATEX
+Concepts de la qualité/ ISO 9001
+Anglais ( TOEIC (990/990)
+Français ( DALF C1)
+Arabe (Maternelle)
+Les API (Siemens, Schneider)
+Electronique industriel
+automate cablé
+TIA Portal et Step 7
+gestion des risques
+Conception et simulation mécanique
+Procédés de fabrication mécanique
+Mécanique des structures et choix de matériaux
+Electriques et informatique industrielle
+Développement du software embarqué (C/C++).
+Architecture des microprocesseurs et systèmes embarqués.
+Traitement numérique du signal
+Innovation technologique et industrielle
+Innovation technologique
+Innovation
+Systèmes de Production
+La modélisation en géomécanique
+Méthodes d’Exploitation à ciel ouvert et souterraines
+Géologie minière
+Valorisation minière
+bilan de matière et évaluation des procédés
+Aérage
+Transport minier
+Mécaniques des roches
+Mécaniques des sols
+Dimensionnement empirique des ouvrages
+Stabilité des terrains et dimensionnement de soutènement
+Planification
+Maple
+Covadis
+Odoo
+Odoo ERP
+Guide PMBOK
+Méthode Merise
+Langage UML
+Microsoft BI
+Datamining
+Simulation
+Recherche opérationnelle
+Oracle Data Integrator
+Talend
+Ordonnancement
+Management stratégique
+Analyse financière
+Conduite des projets industriels
+Evaluation économique des projets
+sens d'écoute
+Autonome
+Sérieuse
+Arabe (langue maternelle)
+Français (B2)
+Anglais (B2)
+Conduite sécurisée
+responsable et économique
+Excellente forme physique
+dextérité manuelle
+connaissances en mécanique
+Sens du service client
+rigueur
+organisation
+gestion du temps et des priorités
+gestion des priorités
+Français : courant
+Allemand : courant
+Anglais : intermédiaire
+Conduite défensive Conduite
+sécurisée et économique
+optimisée en toute circonstance
+Proactif, polyvalent, discret,
+dynamique, sérieux, autonome,
+ponctuel
+Sens de l'accueil
+la responsabilité
+diplomatie
+courtoisie
+Dynamisme et grande disponibilité
+Conduite sécurisée et éco-responsable
+Maîtrise de la réglementation du
+transport en commun
+Navigation par satellite et GPS
+mécanique automobile
+Ponctualité
+concentration
+vigilance
+patience
+TensorFlow
+Scikit-learn
+Seaborn
+Contrôle de Version :Git
+Contrôle de Version — Git
+Docker-compose
